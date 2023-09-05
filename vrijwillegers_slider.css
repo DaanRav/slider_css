@@ -17,7 +17,7 @@ body {
   .block-1 {
     width: 320px;
     height: 358px;
-    background-color: #ff9999; 
+    
     margin-left: 38px;
   }
   .video-animation {
@@ -67,7 +67,7 @@ body {
   .block-2 {
     width: 674px;
     height: 358px;
-    background-color: #99ff99; 
+   
   }
   .block-2-line1 {
       font-family: pp cirka;
@@ -169,7 +169,7 @@ right: 0;
   .block-3 {
     width: 404px;
     height: 358px;
-    background-color: #9999ff; 
+  
   }
   .block-3-text {
     font-size: 18px;
